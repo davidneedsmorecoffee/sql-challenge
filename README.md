@@ -1,4 +1,4 @@
-# SQL query examples
+# SQL setup and query examples
 
 In this example, SQL database was established based on a number of sample CSV files:
   * departments
