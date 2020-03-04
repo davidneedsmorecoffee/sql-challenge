@@ -8,7 +8,7 @@ In this example, SQL database was established based on a number of sample CSV fi
   * salaries
   * titles
 
-Several major steps were taken to set up the SQl databse, including:
+### Several major steps were taken to set up the SQl databse, including:
 
 #### Data Modeling
 * CSV files were first inspected
